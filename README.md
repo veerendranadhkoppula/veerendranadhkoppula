@@ -24,7 +24,7 @@
 
 ###
 
-<h1 align="center">HI every one i'm Veerendranadh koopula👋</h1>
+<h1 align="center">HI every one i'm Veerendranadh koppula👋</h1>
 
 ###
 
