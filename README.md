@@ -63,5 +63,9 @@
 </div>
 
 ###
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✍
+###
+
+> You need to add **?theme=dracula** parameter.
+
+[![readme Quotes](https://quotes-github-readme.vercel.app/api?theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
