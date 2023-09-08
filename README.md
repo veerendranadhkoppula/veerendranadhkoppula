@@ -11,7 +11,7 @@
   <a href="https://instagram.com/veerendranadh_koppula?utm_source=qr&igshid=ZDc4ODBmNjlmNQ%3D%3D" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-  <a href="veerendrakoppula68@gmail.com" target="_blank">
+  <a href="mailto:veerendrakoppula68@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
