@@ -69,4 +69,4 @@
 </div>
 
 ###
-[![GitHub Streak](https://streak-stats.demolab.com?user=veerendranadhkoppula)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=veerendranadhkoppula)](https://git.io/streak-stats) height="220 alt="streak graph" />
