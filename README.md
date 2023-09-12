@@ -64,9 +64,6 @@
 
 ###
 
-<div align="center">
   [![GitHub Streak](https://streak-stats.demolab.com?user=veerendranadhkoppula)](https://git.io/streak-stats)
-
-</div>
 
 ###
