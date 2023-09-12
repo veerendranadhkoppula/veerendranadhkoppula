@@ -62,5 +62,5 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=veerendranadhkoppula)](https://git.io/streak-stats)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=veerendranadhkoppula)
 
