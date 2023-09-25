@@ -35,14 +35,13 @@
 <p align="left">- 📚 I'm currently pursuing B.TECH 3rd year  ...</br>💬 Ask me about anything, I am happy to help.<br>- ⚡ My branch is  CSE+(Artificial intilligence and Data Science)</p>
 
 ###
-
-<h3 align="left">🛠 Language and tools</h3>
-
 ###
 
 <h3 href="https://main--veerendranadhportfolio.netlify.app/">My Portfolio</h3>
 
 ###
+
+<h3 align="left">🛠 Language and tools</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
