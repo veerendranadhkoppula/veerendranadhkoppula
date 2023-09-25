@@ -39,10 +39,7 @@
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
-<h3 align="left">My Portfolio 👇</h3>
-<div align="left">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Fvector-art%2F22414176-online-marketing-portfolio-vector-icon&psig=AOvVaw0JxHJyF6jjhJK2Bx_5a_t1&ust=1695737564461000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLDp0u_4xYEDFQAAAAAdAAAAABAu" height="40" alt="python logo"  />
-  <img width="12" />
+<h3 href="https://main--veerendranadhportfolio.netlify.app/"align="left">My Portfolio</h3>
 ###
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
