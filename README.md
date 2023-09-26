@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
   <a href="https://main--veerendranadhportfolio.netlify.app/" target="_blank">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffreebiesupply.com%2Flogos%2Fportfolio-logo%2F&psig=AOvVaw23lGUZTZvVVv_FYp7sG6of&ust=1695812976133000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKC4_-GRyIEDFQAAAAAdAAAAABAJ" height="25" alt="portfolio logo"  />
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffreebiesupply.com%2Flogos%2Fportfolio-logo%2F&psig=AOvVaw23lGUZTZvVVv_FYp7sG6of&ust=1695812976133000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKC4_-GRyIEDFQAAAAAdAAAAABAJ" height="35" alt="portfolio logo"  />
   </a>
 </div>
 
