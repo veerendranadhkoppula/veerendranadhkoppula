@@ -1,6 +1,8 @@
 <div align="center">
   <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2MyOGFnNXphN2xmM21yNnAxb3c4NHRoNXE2NGd2eThpZ3F6aHJndSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif"  />
+  
 </div>
+
 ###
 
 <div align="center">
@@ -33,6 +35,13 @@
 ###
 
 <p align="left">- 📚 I'm currently pursuing B.TECH 3rd year  ...</br>💬 Ask me about anything, I am happy to help.<br>- ⚡ My branch is  CSE+(Artificial intilligence and Data Science)</p>
+
+###
+
+<div align="left">
+    <a href="https://main--veerendranadhportfolio.netlify.app/" target="_blank">
+  <img height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbootcamp.uxdesign.cc%2Fwhy-do-you-need-a-portfolio-956a51e2c31d&psig=AOvVaw3UsZvqGtbPNsDC2YCAZ8BO&ust=1695884478960000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJjmk5GcyoEDFQAAAAAdAAAAABAK"  />
+</div>
 
 ###
 
