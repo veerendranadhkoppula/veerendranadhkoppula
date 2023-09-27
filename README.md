@@ -42,7 +42,7 @@
 ###
 <div align="left">
     <a href="https://main--veerendranadhportfolio.netlify.app/" target="_blank">
-  <img height="150" src="https://static.wixstatic.com/media/6cef79_2ed14995a4104c3ab61566bce9992255~mv2.gif" />
+  <img height="150" src="https://cdn.dribbble.com/users/5720644/screenshots/13912339/media/cfc570f6891e4aef4ae3c5282a767847.gif" />
       </a>
 </div>
 
