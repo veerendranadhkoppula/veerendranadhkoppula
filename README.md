@@ -42,7 +42,7 @@
 ###
 <div align="left">
     <a href="https://main--veerendranadhportfolio.netlify.app/" target="_blank">
-  <img height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbootcamp.uxdesign.cc%2Fwhy-do-you-need-a-portfolio-956a51e2c31d&psig=AOvVaw3UsZvqGtbPNsDC2YCAZ8BO&ust=1695884478960000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJjmk5GcyoEDFQAAAAAdAAAAABAK"  />
+  <img height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F34594489%2FPortfolio-Website-Im-Piggy&psig=AOvVaw3UsZvqGtbPNsDC2YCAZ8BO&ust=1695884478960000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJjmk5GcyoEDFQAAAAAdAAAAABAQ" />
 </div>
 
 ###
