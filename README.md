@@ -43,6 +43,7 @@
 <div align="left">
     <a href="https://main--veerendranadhportfolio.netlify.app/" target="_blank">
   <img height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.lambdatest.com%2Fnewsletter%2Feditions%2Fissue24&psig=AOvVaw0d4gkmT4FcMNTO48t2l-BW&ust=1695885088233000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJiNibSeyoEDFQAAAAAdAAAAABAE" />
+      </a>
 </div>
 
 ###
