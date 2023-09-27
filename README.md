@@ -42,7 +42,7 @@
 ###
 <div align="left">
     <a href="https://main--veerendranadhportfolio.netlify.app/" target="_blank">
-  <img height="150" src="https://media2.giphy.com/media/334Fib6kPW6vaZGtEi/giphy.gif?cid=ecf05e4785y4uxznrrzkp6wio65nm5psni50qh2aw894dfkp&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
+  <img height="150" src="https://media2.giphy.com/media/l1Oe5bzMJi5LVcbP0u/giphy.gif?cid=ecf05e47c92eqz1bskkk6wnbi4j0jpzliqh0aold3cqslkm6&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
       </a>
 </div>
 
